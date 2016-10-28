@@ -46,24 +46,9 @@ Add as a dependency to your `build.gradle`
     
     dependencies {
         ...
-        compile 'com.github.pakoito:RxTuples:1.0.+'
+        compile 'com.github.paddyzab:RxTuples:1.0.+'
         ...
     }
-
-or to your `pom.xml`
-
-    <repositories>
-        <repository>
-            <id>jitpack.io</id>
-            <url>https://jitpack.io</url>
-        </repository>
-    </repositories>
-    
-    <dependency>
-        <groupId>com.github.pakoito</groupId>
-        <artifactId>RxTuples</artifactId>
-        <version>1.0.0</version>
-    </dependency>
 
 ##License
 
